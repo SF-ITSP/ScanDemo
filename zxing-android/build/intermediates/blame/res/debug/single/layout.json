@@ -1,11 +1,11 @@
 [
     {
-        "merged": "D:\\user\\854190\\AndroidStudio_workspace\\ScanDemo\\zxing-android\\build\\intermediates\\res\\merged\\debug\\layout\\encode.xml",
-        "source": "D:\\user\\854190\\AndroidStudio_workspace\\ScanDemo\\zxing-android\\src\\main\\res\\layout\\encode.xml"
-    },
-    {
         "merged": "D:\\user\\854190\\AndroidStudio_workspace\\ScanDemo\\zxing-android\\build\\intermediates\\res\\merged\\debug\\layout\\share.xml",
         "source": "D:\\user\\854190\\AndroidStudio_workspace\\ScanDemo\\zxing-android\\src\\main\\res\\layout\\share.xml"
+    },
+    {
+        "merged": "D:\\user\\854190\\AndroidStudio_workspace\\ScanDemo\\zxing-android\\build\\intermediates\\res\\merged\\debug\\layout\\encode.xml",
+        "source": "D:\\user\\854190\\AndroidStudio_workspace\\ScanDemo\\zxing-android\\src\\main\\res\\layout\\encode.xml"
     },
     {
         "merged": "D:\\user\\854190\\AndroidStudio_workspace\\ScanDemo\\zxing-android\\build\\intermediates\\res\\merged\\debug\\layout\\bookmark_picker_list_item.xml",
@@ -20,12 +20,12 @@
         "source": "D:\\user\\854190\\AndroidStudio_workspace\\ScanDemo\\zxing-android\\src\\main\\res\\layout\\history_list_item.xml"
     },
     {
-        "merged": "D:\\user\\854190\\AndroidStudio_workspace\\ScanDemo\\zxing-android\\build\\intermediates\\res\\merged\\debug\\layout\\search_book_contents.xml",
-        "source": "D:\\user\\854190\\AndroidStudio_workspace\\ScanDemo\\zxing-android\\src\\main\\res\\layout\\search_book_contents.xml"
-    },
-    {
         "merged": "D:\\user\\854190\\AndroidStudio_workspace\\ScanDemo\\zxing-android\\build\\intermediates\\res\\merged\\debug\\layout\\search_book_contents_header.xml",
         "source": "D:\\user\\854190\\AndroidStudio_workspace\\ScanDemo\\zxing-android\\src\\main\\res\\layout\\search_book_contents_header.xml"
+    },
+    {
+        "merged": "D:\\user\\854190\\AndroidStudio_workspace\\ScanDemo\\zxing-android\\build\\intermediates\\res\\merged\\debug\\layout\\search_book_contents.xml",
+        "source": "D:\\user\\854190\\AndroidStudio_workspace\\ScanDemo\\zxing-android\\src\\main\\res\\layout\\search_book_contents.xml"
     },
     {
         "merged": "D:\\user\\854190\\AndroidStudio_workspace\\ScanDemo\\zxing-android\\build\\intermediates\\res\\merged\\debug\\layout\\capture.xml",
