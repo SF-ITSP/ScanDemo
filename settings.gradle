@@ -1,2 +1,3 @@
 include ':app'
 include ':zxing-android'
+include ':android_scan'
